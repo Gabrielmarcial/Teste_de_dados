@@ -6,7 +6,7 @@ para realizar as seguintes atividades:
 
 __Respostas do Teste__ : Todas as perguntas estão presentes no arquivo __RNT-TESTE.pdf__;
 
-1. __Desenhe o diagrama de ER do banco__: Toda a diagramção e o código sql foi armazenado na pasta __database__ desse repositoóio, para desenhar o __ER do banco__ e gerar o SQL foi utilizado [dbdesigner](https://app.dbdesigner.net/) com o auxílio do [dbeaver](https://dbeaver.io/download/) para vizualizar e testar o banco de dados;
+1. __Desenhe o diagrama de ER do banco__: Toda a diagramção e o código sql foi armazenado na pasta __database__ desse repositório, para desenhar o __ER do banco__ e gerar o SQL foi utilizado [dbdesigner](https://app.dbdesigner.net/) com o auxílio do [dbeaver](https://dbeaver.io/download/) para vizualizar e testar o banco de dados;
 
 2. Crie um notebook no Databricks Community : Todo o __código do projeto__ está presente no __Notebook_teste_dados.ipynb__ que foi elaborado dentro do databricks community;
 
